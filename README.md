@@ -2,7 +2,7 @@
 
 Cette application de gestion de bibliothèque a été développée en Java en respectant une architecture en couches (présentation, contrôle, service et persistance). Elle permet de gérer les livres, les clients, les abonnements, les emprunts et d'autres fonctionnalités essentielles à une bibliothèque moderne.
 ## 📊 Project Diagrams
-[Architecture Diagram (PDF)](docs/diagramme_class_commentaires.pdf)
+[Architecture Diagram (PDF)](docs/Diagramme.pdf)
 
 
 ## Fonctionnalités
